@@ -1,7 +1,7 @@
 # 4.Execution_of_NetworkCommands
 ```
-NAME: SANTHOSH S
-REG.NO: 212224100052
+NAME: SHARMA R
+REG.NO: 212224230261
 ```
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer

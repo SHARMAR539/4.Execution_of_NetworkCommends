@@ -13,7 +13,7 @@ All commands related to Network configuration which includes how to switch to pr
 <BR>
 and normal mode and how to configure router interface and how to save this configuration to
 <BR>
-flash memory or permanent memory.
+flash memory or permanent memory
 <BR>
 This commands includes
 <BR>
